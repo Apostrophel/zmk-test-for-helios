@@ -12,11 +12,7 @@
         compatible = "zmk,keymap";
 
         default_layer {
-            // Test layout - 3x3 grid
-            // Q W E
-            // A S D  
-            // Z X C
-            bindings = 
+            bindings = <
                 &kp Q &kp W &kp E
                 &kp A &kp S &kp D
                 &kp Z &kp X &kp C

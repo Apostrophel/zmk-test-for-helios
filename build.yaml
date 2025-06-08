@@ -1,8 +1,8 @@
-# include:
-#   - board: seeeduino_xiao_rp2040
-#     shield: dasbob_left
-#   - board: seeeduino_xiao_rp2040
-#     shield: dasbob_right
 include:
-    - board: seeeduino_xiao_rp2040
-      shield: dasbob_single
+  - board: seeeduino_xiao_rp2040
+    shield: dasbob_left
+  - board: seeeduino_xiao_rp2040
+    shield: dasbob_right
+# include:
+    # - board: seeeduino_xiao_rp2040
+      # shield: dasbob_single

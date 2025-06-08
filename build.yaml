@@ -5,4 +5,4 @@
 #     shield: dasbob_right
 inlcude:
     - board: seeeduino_xiao_rp2040
-      shield: dasbob_single
+      shield: dasbob_test
